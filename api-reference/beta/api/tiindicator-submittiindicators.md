@@ -134,6 +134,13 @@ Content-type: application/json
   ]
 }
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/tiindicator_submittiindicators-C#-snippets.md)]
+
+---
+
 
 <!-- uuid: 16cd6b66-4b1a-43a1-adaf-3a886856ed98
 2019-02-04 14:57:30 UTC -->

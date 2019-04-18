@@ -103,6 +103,15 @@ The following is an example of a successful response.
 ```http
 HTTP/1.1 204 No Content
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update_alert-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_alert-Javascript-snippets.md)]
+
+---
+
 
 ### Example 2: Request with Prefer header
 

@@ -240,6 +240,13 @@ Content-Type: application/json
     ]
 }
 ```
+#### Sample Code
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_opentypeextension-Javascript-snippets.md)]
+
+---
+
 
 <!-- This page was manually created. -->
 <!-- uuid: 8fcb5dbc-d5aa-4681-8e31-b001d5168d79

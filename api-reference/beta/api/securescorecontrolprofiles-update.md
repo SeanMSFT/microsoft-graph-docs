@@ -85,6 +85,13 @@ The following is an example of a successful response.
 ```http
 HTTP/1.1 204 No Content
 ```
+#### Sample Code
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/securescorecontrolprofiles_update-Javascript-snippets.md)]
+
+---
+
 
 
 

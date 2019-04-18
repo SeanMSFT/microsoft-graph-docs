@@ -69,6 +69,13 @@ Here is an example of the response.
 ```http
 HTTP/1.1 204 No Content
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/refresh_excel_session-C#-snippets.md)]
+
+---
+
 
 <!-- {
   "type": "#page.annotation",

@@ -90,6 +90,15 @@ Content-type: application/json
   "roles": [ "read" ]
 }
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update-permission-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update-permission-Javascript-snippets.md)]
+
+---
+
 
 ## Error responses
 

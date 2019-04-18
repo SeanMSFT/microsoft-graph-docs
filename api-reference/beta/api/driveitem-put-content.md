@@ -118,6 +118,15 @@ Content-Type: application/json
   "file": { }
 }
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/upload-via-put-id-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/upload-via-put-id-Javascript-snippets.md)]
+
+---
+
 
 ## Error responses
 

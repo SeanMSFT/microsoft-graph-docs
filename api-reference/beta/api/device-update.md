@@ -83,6 +83,15 @@ Content-length: 31
 ```http
 HTTP/1.1 204 No Content
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update_device-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_device-Javascript-snippets.md)]
+
+---
+
 
 ## See also
 

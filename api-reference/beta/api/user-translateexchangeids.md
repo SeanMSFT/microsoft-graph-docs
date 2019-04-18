@@ -119,6 +119,13 @@ Content-type: application/json
   ]
 }
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/user_translateexchangeids-C#-snippets.md)]
+
+---
+
 <!--
 {
   "type": "#page.annotation",

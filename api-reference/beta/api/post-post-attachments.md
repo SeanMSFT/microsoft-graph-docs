@@ -94,6 +94,13 @@ Content-length: 162
   "id": "id-value"
 }
 ```
+#### Sample Code
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/create_file_attachment_from_post-Javascript-snippets.md)]
+
+---
+
 
 ## Example (item attachment)
 
@@ -135,6 +142,13 @@ Content-length: 162
   "id": "id-value"
 }
 ```
+#### Sample Code
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/create_item_attachment_from_post-Javascript-snippets.md)]
+
+---
+
 
 
 ## Example (reference attachment)
@@ -190,6 +204,13 @@ HTTP 201 Created
   "isFolder": true
 }
 ```
+#### Sample Code
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/create_reference_attachment_from_post-Javascript-snippets.md)]
+
+---
+
 
 <!-- uuid: 8fcb5dbc-d5aa-4681-8e31-b001d5168d79
 2015-10-25 14:57:30 UTC -->

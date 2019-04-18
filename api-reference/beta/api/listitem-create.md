@@ -81,6 +81,13 @@ Content-type: application/json
   }
 }
 ```
+#### Sample Code
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/create-listitem-Javascript-snippets.md)]
+
+---
+
 
 **Note:** The response object is truncated for clarity. Default properties will be returned from the actual call.
 

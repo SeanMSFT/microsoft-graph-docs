@@ -124,6 +124,15 @@ Content-type: application/json
     }
 }
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update_mailboxsettings-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_mailboxsettings-Javascript-snippets.md)]
+
+---
+
 
 
 ##### Request 2

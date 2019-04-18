@@ -121,6 +121,13 @@ Content-length: 254
   ]
 }
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/contactfolder_delta-C#-snippets.md)]
+
+---
+
 
 ### See also
 

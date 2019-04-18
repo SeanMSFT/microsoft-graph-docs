@@ -130,6 +130,15 @@ Content-length: 285
   "isReminderOn": true
 }
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update_event-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_event-Javascript-snippets.md)]
+
+---
+
 
 ## See also
 

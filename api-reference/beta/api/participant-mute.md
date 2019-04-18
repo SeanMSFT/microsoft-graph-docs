@@ -84,6 +84,13 @@ Content-Length: 259
   "clientContext": "d45324c1-fcb5-430a-902c-f20af696537c"
 }
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/participant-mute-C#-snippets.md)]
+
+---
+
 
 ## Example - Mute specific participant
 

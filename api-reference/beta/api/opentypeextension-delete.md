@@ -84,6 +84,15 @@ The second example deletes an extension in the specified group event.
 ```http
 DELETE https://graph.microsoft.com/beta/groups('f5480dfd-7d77-4d0b-ba2e-3391953cc74a')/events('AAMkADVlN17IsAAA=')/extensions('Com.Contoso.Referral')
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/delete_opentypeextension-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/delete_opentypeextension-Javascript-snippets.md)]
+
+---
+
 
  
 

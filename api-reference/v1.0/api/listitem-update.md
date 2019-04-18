@@ -72,6 +72,13 @@ Content-type: application/json
   "Quantity": 934
 }
 ```
+#### Sample Code
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update-listitem-Javascript-snippets.md)]
+
+---
+
 
 [fieldValueSet]: ../resources/fieldvalueset.md
 [listItem]: ../resources/listitem.md

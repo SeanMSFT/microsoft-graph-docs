@@ -119,6 +119,13 @@ Content-Type: application/json
   }
 }
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/create-link-C#-snippets.md)]
+
+---
+
 
 ## Creating company sharable links
 
@@ -162,6 +169,13 @@ Content-Type: application/json
   }
 }
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/create-link-scoped-C#-snippets.md)]
+
+---
+
 
 ## Creating embeddable links
 
@@ -205,6 +219,13 @@ Content-Type: application/json
   }
 }
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/create-embedded-link-C#-snippets.md)]
+
+---
+
 
 ## Remarks
 

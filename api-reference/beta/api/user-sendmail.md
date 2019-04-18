@@ -104,6 +104,13 @@ Here is an example of the response.
 ```http
 HTTP/1.1 202 Accepted
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/user_sendmail-C#-snippets.md)]
+
+---
+
 
 
 ##### Request 2
@@ -149,6 +156,13 @@ Here is an example of the response.
 ```http
 HTTP/1.1 202 Accepted
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/user_sendmail_with_mentions-C#-snippets.md)]
+
+---
+
 
 ##### Request 3
 The next example creates a message with custom Internet message headers and sends the message.
@@ -197,6 +211,13 @@ Here is an example of the response.
 ```http
 HTTP/1.1 202 Accepted
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/user_sendmail_with_headers-C#-snippets.md)]
+
+---
+
 
 <!-- uuid: 8fcb5dbc-d5aa-4681-8e31-b001d5168d79
 2015-10-25 14:57:30 UTC -->

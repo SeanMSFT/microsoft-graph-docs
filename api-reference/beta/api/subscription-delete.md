@@ -85,6 +85,15 @@ Here is an example of the response.
 ```http
 HTTP/1.1 204 No Content
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/delete_subscription-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/delete_subscription-Javascript-snippets.md)]
+
+---
+
 
 <!--
 {

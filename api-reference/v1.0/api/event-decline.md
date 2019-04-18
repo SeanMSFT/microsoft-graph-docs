@@ -101,6 +101,13 @@ Here is an example of the response.
 ```http
 HTTP/1.1 200 OK
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/event_decline-C#-snippets.md)]
+
+---
+
 
 <br/>
 

@@ -94,6 +94,15 @@ Content-type: application/json
     "wrapText": false
 }
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat-Javascript-snippets.md)]
+
+---
+
 
 ##### Request
 This request updates the font style, size, and color of the first cell. 
@@ -132,6 +141,15 @@ Content-type: application/json
     "underline": "None"
 }
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat_font-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat_font-Javascript-snippets.md)]
+
+---
+
 
 ##### Request
 This request updates the background color of the first cell. 
@@ -163,6 +181,15 @@ Content-type: application/json
     "color": "#FF0000"
 }
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat_fill-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat_fill-Javascript-snippets.md)]
+
+---
+
 ##### Request
 This request updates the vertical alignment, horizontal alignment, row height, and column height of the second cell. 
 
@@ -201,6 +228,15 @@ Content-type: application/json
     "wrapText": false
 }
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat_two-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat_two-Javascript-snippets.md)]
+
+---
+
 
 ##### Request
 This request updates the font style and size of the second cell. 
@@ -238,6 +274,15 @@ Content-type: application/json
     "underline": "None"
 }
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat_font_two-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat_font_two-Javascript-snippets.md)]
+
+---
+
 
 ##### Request
 This request updates the background color of the second cell. 
@@ -269,6 +314,15 @@ Content-type: application/json
     "color": "#00FF00"
 }
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat_fill_two-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat_fill_two-Javascript-snippets.md)]
+
+---
+
 
 ##### Request
 This request updates the horizontal alignment, vertical alignment, row height, and column height of the third cell. 
@@ -308,6 +362,15 @@ Content-type: application/json
     "wrapText": false
 }
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat_three-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat_three-Javascript-snippets.md)]
+
+---
+
 
 ##### Request
 This request updates the font style, size, and color of the third cell. Note that the underline property takes **Single** or **Double** as values.
@@ -346,6 +409,15 @@ Content-type: application/json
     "underline": "Single"
 }
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat_font_three-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat_font_three-Javascript-snippets.md)]
+
+---
+
 
 ##### Request
 This request updates the background color of the third cell. 
@@ -377,6 +449,15 @@ Content-type: application/json
     "color": "#0000FF"
 }
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat_fill_three-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_rangeformat_fill_three-Javascript-snippets.md)]
+
+---
+
 
 
 <!-- uuid: 8fcb5dbc-d5aa-4681-8e31-b001d5168d79

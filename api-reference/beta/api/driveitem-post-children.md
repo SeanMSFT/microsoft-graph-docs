@@ -101,6 +101,13 @@ Content-Type: application/json
   }
 }
 ```
+#### Sample Code
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/create-folder-Javascript-snippets.md)]
+
+---
+
 
 ## Error response
 

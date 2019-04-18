@@ -80,6 +80,15 @@ Content-length: 114
 ```http
 HTTP/1.1 204 No Content
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update_administrativeunit-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_administrativeunit-Javascript-snippets.md)]
+
+---
+
 
 ## See also
 

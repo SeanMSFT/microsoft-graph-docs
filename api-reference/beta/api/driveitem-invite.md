@@ -125,6 +125,13 @@ Content-type: application/json
   ]
 }
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/send-sharing-invite-C#-snippets.md)]
+
+---
+
 ### Partial success response
 
 When inviting multiple recipients, it's possible for the notification to succeed for some and fail for others.

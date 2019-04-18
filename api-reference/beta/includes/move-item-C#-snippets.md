@@ -1,0 +1,21 @@
+
+```CS
+
+GraphServiceClient graphClient = new GraphServiceClient( authProvider );
+
+var parentReference = new ItemReference
+{
+	Id = "new-parent-folder-id",
+};
+
+var items = new DriveItem
+{
+	ParentReference = parentReference,
+	Name = "new-item-name.txt",
+};
+
+await graphClient.Me.Drive.Items["{item-id}"]
+	.Request()
+	.UpdateAsync(items);
+
+```

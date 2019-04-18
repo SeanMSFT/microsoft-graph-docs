@@ -82,6 +82,13 @@ Content-length: 164
 ```http
 HTTP/1.1 204 No Content
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/directoryobject_validateproperties-C#-snippets.md)]
+
+---
+
 
 This is an example of a request with validation errors.
 

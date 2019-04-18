@@ -109,6 +109,15 @@ Content-length: 248
   "inferenceClassification": "other"
 }
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update_message-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_message-Javascript-snippets.md)]
+
+---
+
 
 ## See also
 

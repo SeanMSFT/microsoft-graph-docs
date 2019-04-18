@@ -117,6 +117,13 @@ Content-type: application/json
   ]
 }
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/send-sharing-invite-C#-snippets.md)]
+
+---
+
 
 ## Remarks
 

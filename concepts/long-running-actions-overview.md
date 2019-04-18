@@ -46,6 +46,13 @@ The API responds that the action was accepted and the URL for retrieving the sta
 HTTP/1.1 202 Accepted
 Location: https://api.onedrive.com/monitor/4A3407B5-88FC-4504-8B21-0AABD3412717
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/lro-copy-item-example-C#-snippets.md)]
+
+---
+
 
 **Note:** The location URL returned may not be on the Microsoft Graph API endpoint.
 
@@ -135,6 +142,15 @@ Content-type: application/json
     "size": 12019
 }
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/lro-copy-item-example-complete-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/lro-copy-item-example-complete-Javascript-snippets.md)]
+
+---
+
 
 ## Supported resources
 

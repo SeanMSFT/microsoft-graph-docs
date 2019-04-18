@@ -64,6 +64,15 @@ DELETE https://graph.microsoft.com/beta/app/calls/{id}
 ```http
 HTTP/1.1 204 No Content
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/delete-call-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/delete-call-Javascript-snippets.md)]
+
+---
+
 
 ##### Notification - terminating
 

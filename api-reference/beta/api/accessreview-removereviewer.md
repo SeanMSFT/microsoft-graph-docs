@@ -64,6 +64,15 @@ DELETE https://graph.microsoft.com/beta/accessReviews('2b83cc42-09db-46f6-8c6e-1
 ```http
 HTTP/1.1 204 No content
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/remove_accessReview_reviewer-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/remove_accessReview_reviewer-Javascript-snippets.md)]
+
+---
+
 
 <!--
 {

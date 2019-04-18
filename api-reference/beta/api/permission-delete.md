@@ -62,6 +62,15 @@ DELETE https://graph.microsoft.com/beta/me/drive/root/items/{item-id}/permission
 ```http
 HTTP/1.1 204 No Content
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/delete-permission-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/delete-permission-Javascript-snippets.md)]
+
+---
+
 
 ## Remarks
 

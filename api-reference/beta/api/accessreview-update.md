@@ -93,6 +93,15 @@ Content-type: application/json
     "description": "Sample description"
 }
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update_accessReview-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_accessReview-Javascript-snippets.md)]
+
+---
+
 
 <!--
 {

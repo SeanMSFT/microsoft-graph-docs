@@ -127,6 +127,13 @@ Content-length: 359
   ]
 }
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/event_delta-C#-snippets.md)]
+
+---
+
 
 ### See also
 

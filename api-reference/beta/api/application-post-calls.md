@@ -154,6 +154,13 @@ Content-Type: application/json
   "tenantId": "tenantId-value"
 }
 ```
+#### Sample Code
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/create-call-from-application-Javascript-snippets.md)]
+
+---
+
 
 ##### Notification - establishing
 

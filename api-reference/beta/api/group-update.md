@@ -102,6 +102,15 @@ The following is an example of the response.
 ```http
 HTTP/1.1 204 No Content
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update_group-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update_group-Javascript-snippets.md)]
+
+---
+
 
 ## See also
 

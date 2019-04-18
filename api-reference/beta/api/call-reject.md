@@ -131,6 +131,13 @@ Here is an example of the response.
 ```http
 HTTP/1.1 202 Accepted
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/call-reject-C#-snippets.md)]
+
+---
+
 
 ##### Notification - deleted
 

@@ -65,6 +65,13 @@ Content-length: 48
 ##### Response
 
 ```
+#### Sample Code
+
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/user_exportpersonaldata-C#-snippets.md)]
+
+---
+
 {
   Location: https://graph.microsoft.com/v1.0/dataPolicyOperations/d007e3da-cd9b-4b02-8d66-422403c53e3f
   Retry-After: 60

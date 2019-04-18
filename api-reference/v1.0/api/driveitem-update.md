@@ -82,6 +82,15 @@ Content-type: application/json
   "file": { }
 }
 ```
+#### Sample Code
+# [C#](#tab/CS)
+[!INCLUDE [Sample Code]( ../includes/update-item-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/update-item-Javascript-snippets.md)]
+
+---
+
 
 ## Error responses
 
